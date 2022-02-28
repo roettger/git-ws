@@ -1,0 +1,2 @@
+# git-ws
+Dummy repo
