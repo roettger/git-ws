@@ -1,4 +1,4 @@
-# git-ws
+# Git Workshop
 Dummy repo
 
 ## TOC
